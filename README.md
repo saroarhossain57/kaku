@@ -1,0 +1,2 @@
+# kaku
+ Kaku wp theme
