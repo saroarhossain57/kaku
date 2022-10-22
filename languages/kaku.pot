@@ -1,0 +1,1090 @@
+# <!=Copyright (C) 2022 kaku Theme
+#  This file is distributed under the GNU General Public License v2 or later.=!>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kaku 1.0.4 \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/kaku\n"
+"POT-Creation-Date: 2022-01-27 13:26+0600\n"
+"PO-Revision-Date: 2022-01-27 13:27+0600\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: plurals=2; plural=(n > 1)\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:25
+msgid "It looks like nothing was found at this location. Try another keyword"
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:42
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:176
+msgid "Create Menu"
+msgstr ""
+
+#: header.php:21
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:47
+msgid "Toggle navigation"
+msgstr ""
+
+#: search.php:25
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: customizer/main-config.php:11
+msgid "Kaku Theme Options"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-about-us.php:4
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-about-section.php:3
+msgid "About us section"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-about-us.php:14
+msgid "Display about section?"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-about-us.php:24
+msgid "Upload about image"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-about-us.php:40
+#: customizer/kaku-customizer-settings/c-blog.php:23
+#: customizer/kaku-customizer-settings/c-service.php:23
+#: customizer/kaku-customizer-settings/c-testimonial.php:23
+msgid "Heading"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-about-us.php:43
+msgid "ABOUT US"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-about-us.php:57
+#: customizer/kaku-customizer-settings/c-blog.php:40
+#: customizer/kaku-customizer-settings/c-service.php:40
+#: customizer/kaku-customizer-settings/c-testimonial.php:40
+msgid "Sub heading"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-about-us.php:60
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-about-section.php:43
+msgid "We Are Here For Marketing Agency, Make A Product"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-about-us.php:74
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-team-section.php:59
+#: customizer/kaku-customizer-settings/page-customizer/contact/c-contact-page.php:59
+msgid "Description"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-about-us.php:77
+#: customizer/kaku-customizer-settings/c-banner.php:82
+#: customizer/kaku-customizer-settings/c-blog.php:60
+#: customizer/kaku-customizer-settings/c-service.php:60
+#: customizer/kaku-customizer-settings/c-testimonial.php:60
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-team-section.php:62
+#: customizer/kaku-customizer-settings/page-customizer/contact/c-contact-page.php:62
+msgid ""
+"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem deserunt "
+"natus molestiae voluptatibus, enim rerum porro ab totam ea excepturi."
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-about-us.php:91
+#: customizer/kaku-customizer-settings/c-banner.php:96
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-about-section.php:103
+msgid "Button lebel"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-about-us.php:94
+#: customizer/kaku-customizer-settings/c-banner.php:99
+msgid "Read More"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-about-us.php:108
+#: customizer/kaku-customizer-settings/c-banner.php:113
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-about-section.php:120
+msgid "Button URL"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-about-us.php:111
+#: customizer/kaku-customizer-settings/c-banner.php:116
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-about-section.php:123
+msgid "#"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-banner.php:3
+msgid "Home Page"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-banner.php:9
+msgid "Banner section"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-banner.php:19
+msgid "Display Banner section?"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-banner.php:29
+msgid "Upload banner image"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-banner.php:45
+msgid "Banner heading"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-banner.php:48
+msgid "LOREM IPSUM"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-banner.php:62
+msgid "Banner sub heading"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-banner.php:65
+msgid "Digital Marketing & Web Solution"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-banner.php:79
+msgid "Banner description"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-blog-page.php:3
+msgid "Blog"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-blog-page.php:12
+msgid "Display Sidebar?"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-blog.php:3
+msgid "Blog section"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-blog.php:13
+msgid "Display home page blog section?"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-blog.php:26
+msgid "OUR BLOG"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-blog.php:43
+msgid "Check Our Recent News"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-blog.php:57
+#: customizer/kaku-customizer-settings/c-service.php:57
+#: customizer/kaku-customizer-settings/c-testimonial.php:57
+msgid "Section top short dscription"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-footer-bottom.php:3
+#: customizer/kaku-customizer-settings/c-footer-cta.php:3
+msgid "Footer"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-footer-bottom.php:12
+msgid "Copyright Text"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-footer-bottom.php:15
+msgid "&copy; 2020 DevsGram. All Rights Reserved by <a href=\"#\">DevsGram</a>"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-footer-cta.php:12
+msgid "Display CTA Section?"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-footer-cta.php:22
+msgid "Cta Heading"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-footer-cta.php:25
+msgid "Great Things In Business Are Never Done By One Person."
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-footer-cta.php:39
+msgid "Cta Button Lebel"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-footer-cta.php:42
+msgid "Purchase Now"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-footer-cta.php:56
+msgid "Cta Button URL"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-service.php:3
+msgid "Service section"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-service.php:13
+msgid "Display service section?"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-service.php:26
+msgid "OUR SERVICES"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-service.php:43
+msgid "Let’s Check Our Services"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-service.php:73
+msgid "Service repeater box"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-service.php:79
+#: customizer/kaku-customizer-settings/c-testimonial.php:79
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-about-section.php:79
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-team-section.php:81
+msgid "Your Custom Value"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-service.php:82
+msgid "Add new service "
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-service.php:87
+msgid "Service Icon"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-service.php:88
+msgid "Write service icon name from font-awesome. EX: fas fa-paint-roller"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-service.php:92
+msgid "Service title"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-service.php:96
+msgid "Service description"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-testimonial.php:3
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-testimonial-section.php:4
+msgid "Testimonial section"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-testimonial.php:13
+msgid "Display testimonial section?"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-testimonial.php:26
+msgid "OUR TESTIMONIALS"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-testimonial.php:43
+msgid "Check Our Client Reviews"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-testimonial.php:73
+msgid "Review repeater box"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-testimonial.php:82
+msgid "Add new review "
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-testimonial.php:87
+msgid "Reviewer image"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-testimonial.php:91
+msgid "Reviewer name"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-testimonial.php:95
+msgid "Reviewer designation"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-testimonial.php:99
+msgid "Review content"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-topbar.php:3
+msgid "Header"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-topbar.php:9
+msgid "Topbar settings"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-topbar.php:20
+msgid "Display Topbar?"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-topbar.php:30
+msgid "Phone number"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/c-topbar.php:46
+msgid "Email address"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-about-section.php:14
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-team-section.php:15
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-testimonial-section.php:15
+msgid "Display Section?"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-about-section.php:24
+msgid "Upload Left image"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-about-section.php:40
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-team-section.php:25
+#: customizer/kaku-customizer-settings/page-customizer/contact/c-contact-page.php:25
+msgid "Title"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-about-section.php:57
+msgid "Decription"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-about-section.php:60
+msgid ""
+"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem deserunt "
+"natus molestiae voluptatibus, enim rerum porro ab totam ea excepturi. Quidem "
+"deserunt natus molestiae voluptatibus."
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-about-section.php:73
+msgid "About lists repeater box"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-about-section.php:82
+msgid "Add new List Item"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-about-section.php:87
+msgid "List Item"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-about-section.php:106
+msgid "Contact Us"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-team-section.php:4
+msgid "Team section"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-team-section.php:28
+msgid "OUR TEAM"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-team-section.php:42
+#: customizer/kaku-customizer-settings/page-customizer/contact/c-contact-page.php:42
+msgid "Sub Title"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-team-section.php:45
+msgid "Our Best Dedicated Team"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-team-section.php:75
+msgid "Team member repeater"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-team-section.php:84
+msgid "Add new Team Member"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-team-section.php:89
+msgid "Team Member Image"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-team-section.php:93
+msgid "Team Member Name"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-team-section.php:97
+msgid "Team Member Designation"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-team-section.php:101
+msgid "Facebook URL"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-team-section.php:105
+msgid "Twitter URL"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-team-section.php:109
+msgid "Linkedin URL"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page-team-section.php:113
+msgid "Instagram URL"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page.php:3
+msgid "Kaku pages"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page.php:9
+msgid "About page"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/about/c-about-page.php:20
+msgid "Display About Page Banner?"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/contact/c-contact-page.php:4
+msgid "Contact page"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/contact/c-contact-page.php:15
+msgid "Display Contact Page Banner?"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/contact/c-contact-page.php:28
+msgid "CONTACT US"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/contact/c-contact-page.php:45
+msgid "Feel Free To Knock Us"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/contact/c-contact-page.php:75
+msgid "Contact Info Repeater"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/contact/c-contact-page.php:80
+msgid "Your Custom Value."
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/contact/c-contact-page.php:87
+msgid "font-awesome icon name"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/contact/c-contact-page.php:88
+msgid "Write font-awesome icon name. EX: fas fa-phone, far fa-envelope etc"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/contact/c-contact-page.php:92
+msgid "Info title"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/contact/c-contact-page.php:96
+msgid "Info content"
+msgstr ""
+
+#: customizer/kaku-customizer-settings/page-customizer/contact/c-contact-page.php:97
+msgid "Write phone number or mail address or address"
+msgstr ""
+
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:46
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:100 template-parts/content-page.php:41
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/metabox/metabox.php:15
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/metabox/metabox.php:26
+msgid "Right Sidebar(default)"
+msgstr ""
+
+#: inc/metabox/metabox.php:30
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/metabox/metabox.php:42
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/nav-walker/kaku-nav-walker.php:355
+msgid "Add a menu"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:47
+msgid "Kirki"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:52
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/widgets/widget.php:9
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/widgets/widget.php:11
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/widget.php:19
+msgid "Footer One"
+msgstr ""
+
+#: inc/widgets/widget.php:29
+msgid "Footer Two"
+msgstr ""
+
+#: inc/widgets/widget.php:39
+msgid "Footer Three"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:32
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:39
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:27 template-parts/content-search.php:53
+#: template-parts/content.php:69
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-search.php:69 template-parts/content.php:87
+msgid "read more"
+msgstr ""
+
+#: template-parts/content.php:59
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/pages/about.php:45 template-parts/sections/home-about.php:21
+msgid "About Image"
+msgstr ""
+
+#: template-parts/pages/about.php:146
+msgid "Team member Image"
+msgstr ""
+
+#: template-parts/sections/banner.php:52
+msgid "Banner Image"
+msgstr ""
+
+#: template-parts/sections/footer-bottom.php:15
+msgid "Developed By"
+msgstr ""
+
+#: template-parts/sections/footer-bottom.php:15
+msgid "DevsGram"
+msgstr ""
+
+#: template-parts/sections/footer-bottom.php:15
+msgid "Powered by"
+msgstr ""
+
+#: template-parts/sections/footer-bottom.php:15
+msgid "WordPress"
+msgstr ""
+
+#: template-parts/sections/topbar.php:41
+msgid "search"
+msgstr ""
+
+#: template-parts/sections/common/testimonials.php:51
+msgid "Testimonial Image"
+msgstr ""

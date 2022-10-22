@@ -1,0 +1,459 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* common css start */
+  .contact-content,
+  .team-content,
+  .blog-content,
+  .testimonial-content,
+  .service-content {
+    padding: 0 50px;
+  }
+  /* common css end */
+  /* navbar css start */
+  .logo a.navbar-brand {
+    font-size: 20px;
+  }
+  .agency-menu ul.navbar-nav li {
+    margin-right: 5px;
+  }
+  .agency-menu ul.navbar-nav li a.nav-link {
+    font-size: 14px;
+    padding: 18px 5px;
+  }
+  .agency-menu .dropdown-menu {
+    margin-top: 19px;
+  }
+  /* navbar css end */
+  /* banner css start */
+  .section-content h2 {
+    font-size: 35px;
+  }
+  .banner-btn {
+    margin-top: 30px;
+  }
+  .banner-area {
+    padding: 80px 0;
+  }
+  a.primary-btn {
+    padding: 10px 30px;
+  }
+  /* banner css end */
+  /* about css start */
+  .section-padding {
+    padding: 50px 0;
+  }
+  .about-content {
+    margin-left: 20px;
+  }
+  .about-content h2 {
+    font-size: 25px;
+    margin: 10px 0;
+  }
+  .about-content p {
+    font-size: 15px;
+  }
+  .about-buttom {
+    margin-top: 20px;
+  }
+  /* about css end */
+
+  /* service css start */
+  .all-services {
+    margin-top: 80px;
+  }
+  .single-service {
+    padding: 50px 30px;
+}
+.service-image {
+    margin-bottom: 15px;
+}
+  /* service css end */
+
+  /* testimonial css strat */
+  .single-testimonial {
+    margin: 100px 50px 40px 50px;
+  }
+  /* testimonial css end */
+  /* blog css start */
+  .all-blogs {
+    margin-top: 80px;
+  }
+  /* blog css end */
+
+  /* cta css start */
+  .cta-content h2 {
+    font-size: 25px;
+    line-height: 1.5em;
+  }
+  /* cta css end */
+  /* footer css start */
+  .footer-title h2 a,
+  .footer-title h2 {
+    font-size: 20px;
+  }
+  .footer-contact p,
+  .footer-navigation ul li a {
+    font-size: 15px;
+    font-weight: normal;
+  }
+  .footer-social-info ul li a {
+    padding: 3px 5px;
+    margin-right: 2px;
+  }
+  /* footer css end */
+  /* single blog css start */
+  .blog-details {
+    padding: 80px 0;
+  }
+  .post-content {
+    padding: 20px;
+  }
+  .ap-search-form input.form-control {
+    width: 205px !important;
+  }
+  .ap-search-form button.ap-btn {
+    right: 27px;
+  }
+  .ap-recent-post .media img {
+    height: 80px;
+    width: 80px;
+  }
+  .ap-recent-post h3 {
+    font-size: 16px;
+    font-weight: 500;
+  }
+  .ap-recent-post p {
+    margin-top: 10px;
+  }
+  .ap-media .media {
+    margin-bottom: 15px;
+  }
+  /* single blog css end */
+  /* about page css start*/
+  .about-page-buttom {
+    margin-top: 25px;
+  }
+  .about-content ul li {
+    font-size: 16px;
+    padding: 2px 0;
+  }
+  .about-content ul li i {
+    font-size: 18px;
+  }
+  .single-team-member {
+    margin-bottom: 30px;
+  }
+  .all-team-member {
+    margin-top: 80px;
+  }
+  /* about page css end*/
+  /* contact us page css start*/
+  .single-contact-info {
+    padding: 25px;
+  }
+  .single-contact-info h2 {
+    font-size: 22px;
+  }
+  .contact-info {
+    margin-top: 80px;
+  }
+  /* contact us page css end*/
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+  /* common css */
+  .contact-content,
+  .team-content,
+  .blog-content,
+  .testimonial-content,
+  .service-content {
+    padding: 0;
+  }
+  /* top bar css start */
+  .ap-phone-number {
+    margin-right: 10px;
+  }
+  .ap-phone-number span,
+  .ap-email span {
+    font-size: 13px;
+    margin-right: 1px;
+  }
+  .ap-phone-number a,
+  .ap-email a {
+    font-size: 13px;
+  }
+  /* top bar css end */
+  /* navbar css start */
+  .agency-menu ul.navbar-nav li a.nav-link {
+    padding: 10px 10px;
+    margin-right: 0;
+  }
+  .agency-menu .navbar-nav .nav-item.active {
+    width: 100%;
+  }
+  .agency-menu .navbar-nav .nav-item:hover {
+    width: 100%;
+  }
+  .agency-menu .navbar-collapse {
+    padding-top: 30px;
+  }
+  .agency-menu ul.navbar-nav li {
+    margin-right: 0px;
+  }
+  .agency-menu .dropdown-menu {
+    margin-top: 0;
+  }
+  /* navbar css end */
+
+  /* banner css start */
+  .section-content h2 {
+    font-size: 25px;
+    line-height: 1.5em;
+    margin: 15px 0;
+  }
+  .section-content h1 {
+    font-size: 15px;
+  }
+  .section-content p {
+    padding-right: 0;
+  }
+  a.primary-btn {
+    padding: 10px 30px;
+  }
+  .banner-btn {
+    margin-top: 25px;
+  }
+  .banner-area {
+    padding: 60px 0;
+  }
+  /* banner css end */
+
+  /* about css start */
+  .section-padding {
+    padding: 50px 0;
+  }
+  .about-content {
+    margin-top: 50px;
+    text-align: center;
+  }
+  .about-content {
+    margin-left: 0;
+  }
+  .about-content p {
+    font-size: 16px;
+  }
+  /* about css start */
+
+  /* service css start */
+  .all-services {
+    margin-top: 50px;
+  }
+  /* service css end */
+  /* testimonial css strat */
+  .single-testimonial {
+    margin: 80px 20px 30px 20px;
+    box-shadow: rgba(179, 179, 179, 0.22) 0px 2px 25px 0px;
+  }
+  /* testimonial css end */
+  /* blog css start */
+  .all-blogs {
+    margin-top: 60px;
+  }
+  /* blog css end */
+  /* cta css start */
+  .cta-section {
+    text-align: center;
+  }
+  .cta-button {
+    text-align: center;
+    margin-top: 30px;
+  }
+  .cta-content h2 {
+    font-size: 25px;
+    line-height: 1.5em;
+  }
+  /* cta css end */
+  /* brand css start */
+  .brand-section {
+    padding: 60px 0;
+  }
+  /* brand css end */
+  /* footer css start */
+  .footer-contact p,
+  .footer-navigation ul li a {
+    font-size: 15px;
+    font-weight: normal;
+  }
+  .footer-contact,
+  .footer-quick-links {
+    margin-top: 50px;
+  }
+  .footer-bottom-nagivation ul li a {
+    margin-right: 0;
+  }
+  .footer-service {
+    margin-top: 0px;
+  }
+  /* footer css end */
+  /* single blog css start */
+  .page-banner {
+    padding: 80px 0;
+  }
+  .post-title h1 {
+    font-size: 30px;
+  }
+  .page-breadcrumbs {
+    margin-top: 20px;
+  }
+  .blog-details {
+    padding: 60px 0;
+  }
+  .ap-search-form input.form-control {
+    width: 250px !important;
+  }
+  .blog-sidebar {
+    margin-top: 60px;
+  }
+  .ap-search-form button.ap-btn {
+    right: 282px;
+  }
+  /* single blog css end */
+  /* team css start */
+  .team-member-img img {
+    margin: auto;
+}
+  .all-team-member {
+    margin-top: 60px;
+  }
+  .about-content ul li {
+    text-align: left;
+  }
+  .single-team-member {
+    margin-bottom: 30px;
+  }
+  .team-member-meta h3 {
+    font-size: 20px;
+  }
+  /* team css end */
+  /* contact us page css start*/
+  .single-contact-info {
+    padding: 25px;
+  }
+  .single-contact-info h2 {
+    font-size: 22px;
+  }
+  .contact-info {
+    margin-top: 60px;
+  }
+  .single-contact-info {
+    margin-bottom: 30px;
+  }
+  /* contact us page css end*/
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (max-width: 480px) {
+  .section-content {
+    text-align: center;
+  }
+  /* menu css start */
+  .agency-menu .navbar {
+    padding: 15px 20px;
+  }
+  /* menu css end */
+  /* navbar css start */
+    .logo a.navbar-brand {
+    font-size: 18px;
+  }
+  /* navbar css end */
+  /* top bar css start */
+  .header-top-area {
+    padding: 15px 0;
+  }
+  .header-top-right {
+    margin-top: 15px;
+  }
+  .header-top-left {
+    text-align: center;
+  }
+  .ap-phone-number a,
+  .ap-email a {
+    font-size: 15px;
+  }
+  .ap-phone-number span,
+  .ap-email span {
+    font-size: 16px;
+    margin-right: 3px;
+  }
+  /* top bar css end */
+  /* banner css start */
+  .banner-btn {
+    margin-top: 30px;
+  }
+  .banner-img img {
+    max-width: 90%;
+    margin: 70px auto 0 auto;
+  }
+  /* banner css end */
+  /* testimonial css start */
+  .single-testimonial {
+    padding: 20px;
+    box-shadow: rgba(179, 179, 179, 0.22) 0px 2px 25px 0px;
+  }
+  .single-testimonial p {
+    margin-top: 70px;
+  }
+  /* testimonial css end */
+  /* cta css start */
+  .cta-section {
+    padding: 60px 0;
+  }
+  .cta-button {
+    text-align: center;
+    margin-top: 30px;
+  }
+  .cta-content {
+    text-align: center;
+  }
+  /* cta css end */
+
+  /* footer css start */
+  .footer-service {
+    margin-top: 50px;
+  }
+  .footer-bottom-nagivation ul,
+  .copyright-text p,
+  .footer-contact,
+  .footer-quick-links,
+  .footer-service,
+  .footer-about-info {
+    text-align: center;
+  }
+  .footer-navigation ul li a {
+    margin: 5px 0;
+  }
+  .footer-bottom-nagivation {
+    margin-top: 20px;
+  }
+  .footer-bottom-nagivation ul li a {
+    margin-right: 10px;
+  }
+  /* footer css end */
+  /* single blog css start */
+  .ap-search-form button.ap-btn {
+    right: 223px;
+  }
+  /* single blog css end */
+  /* Privacy & Policy css start */
+  .Privacy-content {
+    padding: 0 20px;
+  }
+  /* Privacy & Policy css end */
+  /* cta*/
+  .cta-content h2 {
+    font-size: 20px;
+    line-height: 1.5em;
+  }
+}
