@@ -1,9 +1,9 @@
 === Kaku ===
-Contributors: devsgram
+Contributors: devsgram, shossain571
 Tags: agency, creative-agency, wedding, news, seo-agency, digital-agency, sidebar, blog, one-column, custom-background, custom-colors, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, block-patterns, block-styles, wide-blocks, accessibility-ready
-Tested up to: 5.8
-Stable tag: 2.1
-Requires PHP: 5.6
+Tested up to: 6.3
+Stable tag: 1.0.6
+Requires PHP: 7.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html 
 
@@ -39,6 +39,10 @@ GNU General Public License for more details.
 
 == Changelog ==
 
+Version 1.0.6 - 16/10/23
+Added: Uncompressed js files.
+
+Version 1.0.5 
 Initial release
 
 == Resources ==
